@@ -1,0 +1,2 @@
+A video serving as a dataset has been utilized for this project. The video features parking spaces and the vehicles parked within them. The video file is too large for GitHub upload, but a download link is provided below.
+https://drive.google.com/file/d/1d5RATQdvzRneSxvT1plXxgZI13-334Lt/view?usp=drive_link 	
